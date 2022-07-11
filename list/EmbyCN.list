@@ -1,9 +1,0 @@
-# 内容：Emby 公益服 直连 列表
-
-# Emby 公益服
-DOMAIN,de.ddns.me
-DOMAIN-SUFFIX,misakaf.xyz
-DOMAIN-SUFFIX,4545.cf
-DOMAIN-SUFFIX,404.sb
-DOMAIN-SUFFIX,github.io
-IP-CIDR,89.58.47.205/32,no-resolve
