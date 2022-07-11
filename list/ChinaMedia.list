@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,misakaf.xyz
 DOMAIN-SUFFIX,4545.cf
 DOMAIN-SUFFIX,404.sb
 DOMAIN-SUFFIX,github.io
-IP-CIDR,89.58.47.205/8096,no-resolve
+IP-CIDR,89.58.47.205/32,no-resolve
 
 # Bilibili 哔哩哔哩
 USER-AGENT,Bilibili*
