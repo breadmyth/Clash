@@ -2,4 +2,5 @@
 # 数量：1条
 DOMAIN,androidtvlauncherxfe-pa.googleapis.com
 
-//IP-CIDR,64.233.177.188/32,no-resolve
+# YouTube 漏网之鱼
+IP-CIDR,124.71.82.223/32,no-resolve
