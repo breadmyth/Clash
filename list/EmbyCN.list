@@ -2,9 +2,14 @@
 
 # Emby 公益服
 DOMAIN,de.ddns.me
+DOMAIN,emby.jiasu.ga
 DOMAIN-SUFFIX,misakaf.xyz
 DOMAIN-SUFFIX,4545.cf
 DOMAIN-SUFFIX,404.sb
+DOMAIN-SUFFIX,nakoemby.com
+DOMAIN-SUFFIX,20.205.38.244
+DOMAIN-SUFFIX,jiasu.ga
+
 
 # de.ddns.me IP
 IP-CIDR,89.58.47.205/32,no-resolve
