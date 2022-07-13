@@ -1,5 +1,5 @@
 # 内容：YouTube
-# 数量：18条
+# 数量：26条
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
 USER-AGENT,com.google.ios.youtube*
@@ -17,6 +17,14 @@ DOMAIN-SUFFIX,youtubegaming.com
 DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,youtubecn.com
+DOMAIN-SUFFIX,addyoutube.com
+DOMAIN-SUFFIX,dlyoutube.com
+DOMAIN-SUFFIX,findyoutube.com
+DOMAIN-SUFFIX,findyoutube.net
+DOMAIN-SUFFIX,freeyoutubeproxy.net
+DOMAIN-SUFFIX,listentoyoutube.com
+DOMAIN-SUFFIX,onlineyoutube.com
 
 # YouTube 漏网之鱼
 IP-CIDR,124.71.82.223/32,no-resolve
