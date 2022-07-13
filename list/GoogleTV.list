@@ -1,6 +1,3 @@
 # 内容：Google电视棒 首页
 # 数量：1条
 DOMAIN,androidtvlauncherxfe-pa.googleapis.com
-
-# YouTube 漏网之鱼
-IP-CIDR,124.71.82.223/32,no-resolve
