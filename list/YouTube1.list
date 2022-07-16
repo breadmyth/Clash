@@ -27,9 +27,9 @@ DOMAIN-SUFFIX,listentoyoutube.com
 DOMAIN-SUFFIX,onlineyoutube.com
 
 # YouTube 漏网之鱼
-IP-CIDR,124.71.82.223/32,no-resolve
-IP-CIDR,172.217.31.142/32,no-resolve
-IP-CIDR,27.36.224.47/32,no-resolve
+# IP-CIDR,124.71.82.223/32,no-resolve
+# IP-CIDR,172.217.31.142/32,no-resolve
+# IP-CIDR,27.36.224.47/32,no-resolve
 
 # YouTubeMusic
 USER-AGENT,*YouTubeMusic*
