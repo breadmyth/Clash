@@ -2210,8 +2210,6 @@ DOMAIN-SUFFIX,google.vg
 DOMAIN-SUFFIX,google.vn
 DOMAIN-SUFFIX,google.vu
 DOMAIN-SUFFIX,google.ws
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapps.com
 DOMAIN-SUFFIX,googlearth.com
 DOMAIN-SUFFIX,googleartproject.com
@@ -5984,8 +5982,6 @@ DOMAIN-SUFFIX,app-measurement.net
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,goo.gl
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gvt0.com
