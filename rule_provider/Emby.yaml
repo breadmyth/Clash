@@ -1,0 +1,28 @@
+payload:
+  # 内容: Emby 公益服列表 代理
+
+  # 1、MisakaF :8096 :443
+  - DOMAIN,embyssl.misakaf.org
+  - DOMAIN-SUFFIX,misakaf.org
+
+  # 2、Pornemby :443
+  - DOMAIN-SUFFIX,pornemby.club
+
+  # 3、NakoNako :443
+  - DOMAIN-SUFFIX,nakonako.net
+
+  # 4、Cc :8096 (电信用日本节点最好)
+  - DOMAIN,emby.jiasu.ga
+  - DOMAIN-SUFFIX,jiasu.ga
+
+  # 5、佛系 :8018
+  - DOMAIN-SUFFIX,4545.cf
+
+  # 6、peach :8096 :8920 (新加坡或者香港节点)
+  - DOMAIN,embymv.tk
+  - DOMAIN-SUFFIX,embymv.tk
+
+  # 7、🐻 猫熊影业 屏蔽 美国 大陆 台湾等访问 端口 443/8096 1、🇺🇸美國01 https :443 2、高可用 http :10789
+  - DOMAIN,emby.kim
+  - DOMAIN,ha.emby.kim
+  - DOMAIN-SUFFIX,emby.kim
