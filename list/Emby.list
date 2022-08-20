@@ -1,5 +1,8 @@
 # 内容：Emby 公益服列表 代理
 
+DOMAIN-KEYWORD,jav
+DOMAIN-SUFFIX,jable.tv
+
 # 1、MisakaF :8096 :443
 DOMAIN,embyssl.misakaf.org
 DOMAIN-SUFFIX,misakaf.org
