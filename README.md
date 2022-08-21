@@ -1,1 +1,1 @@
-Clash config
+Clash rule-provider 专用
