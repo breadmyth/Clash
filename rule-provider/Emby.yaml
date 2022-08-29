@@ -31,3 +31,6 @@ payload:
   # 7、🐻 猫熊影业 屏蔽 美国 大陆 台湾等访问 端口 443/8096 1、🇺🇸美國01 https :443 2、高可用 http :10789
   - DOMAIN,ha.emby.kim
   - DOMAIN-SUFFIX,emby.kim
+
+  # 8、Orange🍊公益服 :8880
+  - DOMAIN,emby.52.al
