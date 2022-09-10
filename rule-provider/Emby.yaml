@@ -34,3 +34,9 @@ payload:
 
   # 8、Orange🍊公益服 :8880
   - DOMAIN,emby.52.al
+
+  # 9、终点站公益服 :443
+  - DOMAIN,pub1.emby.wtf
+  - DOMAIN,pub2.emby.wtf
+  - DOMAIN,pub3.emby.wtf
+  - DOMAIN-SUFFIX,emby.wtf
