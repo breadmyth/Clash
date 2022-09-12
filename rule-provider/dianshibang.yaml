@@ -11,3 +11,6 @@ payload:
   - DOMAIN,api.ipify.org
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ipify.org
+  
+  # Sub.Store
+  - DOMAIN-SUFFIX,vercel.app
