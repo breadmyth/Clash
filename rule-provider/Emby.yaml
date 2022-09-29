@@ -1,6 +1,10 @@
 payload:
   # 内容: Emby 公益服列表 代理
 
+//# 4、Cc :80 (电信用日本节点最好)
+//- DOMAIN,cc.ccemby.tk
+//- DOMAIN-SUFFIX,ccemby.tk
+
   - DOMAIN-KEYWORD,jav
   - DOMAIN-SUFFIX,jable.tv
   # BlueSeaMusics 音乐服
@@ -16,30 +20,26 @@ payload:
 
   # 3、NakoNako :443
   - DOMAIN-SUFFIX,nakonako.net
-
-  //# 4、Cc :80 (电信用日本节点最好)
-  //- DOMAIN,cc.ccemby.tk
-  //- DOMAIN-SUFFIX,ccemby.tk
   
-  # 5、佛系 :8018
+  # 4、佛系 :8018
   - DOMAIN-SUFFIX,4545.cf
 
-  # 6、peach :8096 :8920 (新加坡或者香港节点)
+  # 5、peach :8096 :8920 (新加坡或者香港节点)
   - DOMAIN,embymv.tk
   - DOMAIN-SUFFIX,embymv.tk
 
-  # 7、🐻 猫熊影业 屏蔽 美国 大陆 台湾等访问 端口 443/8096 1、🇺🇸美國01 https :443 2、高可用 http :10789
+  # 6、🐻 猫熊影业 屏蔽 美国 大陆 台湾等访问 端口 443/8096 1、🇺🇸美國01 https :443 2、高可用 http :10789
   - DOMAIN,ha.emby.kim
   - DOMAIN-SUFFIX,emby.kim
 
-  # 8、Orange🍊公益服 :8880
+  # 7、Orange🍊公益服 :8880
   - DOMAIN,emby.52.al
 
-  # 9、终点站公益服 :443
+  # 8、终点站公益服 :443
   - DOMAIN,pub1.emby.wtf
   - DOMAIN,pub2.emby.wtf
   - DOMAIN,pub3.emby.wtf
   - DOMAIN-SUFFIX,emby.wtf
   
-  # 10、垃圾影音 tg群名 1111 @zckllflbot :8096
+  # 9、垃圾影音 tg群名 1111 @zckllflbot :8096
   - DOMAIN,xyt.emby.ml
