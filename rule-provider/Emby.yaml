@@ -1,10 +1,6 @@
 payload:
   # 内容: Emby 公益服列表 代理
 
-//# 4、Cc :80 (电信用日本节点最好)
-//- DOMAIN,cc.ccemby.tk
-//- DOMAIN-SUFFIX,ccemby.tk
-
   - DOMAIN-KEYWORD,jav
   - DOMAIN-SUFFIX,jable.tv
   # BlueSeaMusics 音乐服
