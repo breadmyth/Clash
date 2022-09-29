@@ -1,9 +1,5 @@
 payload:
 
-  # 自用直连
-  - DOMAIN,suo.yt
-  - DOMAIN,ghproxy.com
-
   # Emby 公益服列表 直连
 
   # 1、韩佬 StarK :8096
