@@ -3,7 +3,7 @@ payload:
   # Emby 公益服列表 直连
 
   # 1、韩佬 StarK :8096
-  - DOMAIN,Stark.ddns.me
+  - DOMAIN,stark.ddns.me
   - DOMAIN-SUFFIX,ddns.me
 
   # 2、NakoNako :8096 :443
