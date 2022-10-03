@@ -28,8 +28,9 @@ payload:
   - DOMAIN,ha.emby.kim
   - DOMAIN-SUFFIX,emby.kim
 
-  # 7、Orange🍊公益服 :8880
-  - DOMAIN,emby.52.al
+  # 7、Orange🍊公益服 :8096 :8880
+  - DOMAIN,embymv.cf
+  - DOMAIN-SUFFIX,embymv.cf
 
   # 8、终点站公益服 :443
   - DOMAIN,pub1.emby.wtf
