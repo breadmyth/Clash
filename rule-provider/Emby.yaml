@@ -40,5 +40,5 @@ payload:
   - DOMAIN,pub3.emby.wtf
   - DOMAIN-SUFFIX,emby.wtf
   
-  # 9、垃圾影音 tg群名 1111 @zckllflbot :8096
-  - DOMAIN,xyt.emby.ml
+  # 9、垃圾影音 tg群名 1111 @zckllflbot :80
+  - DOMAIN,cf.emby.ml
