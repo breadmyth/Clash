@@ -1,5 +1,7 @@
 payload:
   
+  - DOMAIN-SUFFIX,telghub.com
+  
   # Google电视棒 首页
   - DOMAIN,androidtvlauncherxfe-pa.googleapis.com
   - DOMAIN-SUFFIX,googleapis.cn
