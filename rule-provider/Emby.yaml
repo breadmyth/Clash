@@ -1,6 +1,7 @@
 payload:
   # 内容: Emby 公益服列表 代理
 
+  - DOMAIN-KEYWORD,pixiv
   - DOMAIN-KEYWORD,jav
   - DOMAIN-SUFFIX,jable.tv
 
