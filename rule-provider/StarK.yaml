@@ -13,3 +13,6 @@ payload:
   # 3、Cc :80 (电信用日本节点最好)
   - DOMAIN,cc.ccemby.tk
   - DOMAIN-SUFFIX,ccemby.tk
+
+  # 二刺螈 :443
+  - DOMAIN-SUFFIX,nijigem.by
