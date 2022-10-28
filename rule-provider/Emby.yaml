@@ -23,7 +23,6 @@ payload:
   - DOMAIN-SUFFIX,4545.cf
 
   # 5、peach :8096 :8920 (新加坡或者香港节点)
-  - DOMAIN,embymv.tk
   - DOMAIN-SUFFIX,embymv.tk
 
   # 6、🐻 猫熊影业 屏蔽 美国 大陆 台湾等访问 端口 443/8096 1、🇺🇸美國01 https :443 2、高可用 http :10789
