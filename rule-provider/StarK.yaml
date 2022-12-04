@@ -14,3 +14,6 @@ payload:
 
   # 二刺螈 :443
   - DOMAIN-SUFFIX,nijigem.by
+
+  # 酒吧影业 :8096 :443
+  - DOMAIN-KEYWORD,o9o
