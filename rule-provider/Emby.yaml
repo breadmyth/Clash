@@ -4,6 +4,7 @@ payload:
   - DOMAIN-KEYWORD,pixiv
   - DOMAIN-KEYWORD,jav
   - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-KEYWORD,prosettings
 
   # BlueSeaMusics 音乐服
   - DOMAIN-SUFFIX,blueseamusics.com
@@ -41,3 +42,5 @@ payload:
   
   # 9、垃圾影音 tg群名 1111 @zckllflbot :80
   - DOMAIN,cf.emby.ml
+  # 10、polo
+  - DOMAIN-KEYWORD,poloemby
