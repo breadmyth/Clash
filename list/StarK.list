@@ -1,0 +1,19 @@
+# 内容: Emby 公益服列表 直连
+
+
+# 韩佬 StarK :8096
+DOMAIN-SUFFIX,ddns.me
+DOMAIN-KEYWORD,starkemby
+
+# NakoNako :8096 :443
+IP-CIDR,20.205.38.244/32,no-resolve
+DOMAIN-SUFFIX,nakoemby.com
+
+# Cc :80 (电信用日本节点最好)
+DOMAIN-KEYWORD,ccemby
+
+# 二刺螈 :443
+DOMAIN-SUFFIX,nijigem.by
+
+# 酒吧影业 :8096 :443
+DOMAIN-KEYWORD,o9o
