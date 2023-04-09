@@ -1,5 +1,11 @@
 # 内容：Emby 公益服列表 代理
 
+# openai
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openai.com
 
 DOMAIN-KEYWORD,pixiv
 DOMAIN-KEYWORD,jav
@@ -46,4 +52,3 @@ DOMAIN,cf.emby.ml
 
 # 10、polo
 DOMAIN-KEYWORD,poloemby
-1
