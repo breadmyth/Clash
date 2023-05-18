@@ -1,7 +1,5 @@
 # 内容: Emby 公益服列表 直连
 
-# 天气
-DOMAIN,assets.msn.com
 
 # 韩佬 StarK :8096
 DOMAIN-SUFFIX,ddns.me
