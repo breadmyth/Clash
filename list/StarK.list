@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,nakoemby.com
 
 # Cc :80 (电信用日本节点最好)
 DOMAIN-KEYWORD,ccemby
+DOMAIN-KEYWORD,coemn
 
 # 二刺螈 :443
 DOMAIN-SUFFIX,nijigem.by
