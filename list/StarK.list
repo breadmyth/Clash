@@ -1,10 +1,13 @@
 # 内容: Emby 公益服列表 直连
 
 
-# 韩佬 StarK :8096
-DOMAIN-SUFFIX,ddns.me
+# 韩佬 StarK :8096 :2095
 DOMAIN-KEYWORD,stark
-DOMAIN-KEYWORD,starkemby
+DOMAIN,stark.ddns.me
+DOMAIN,hinet.ddns.me
+DOMAIN,de.ddns.me
+IP-CIDR,154.7.182.57/32,no-resolve
+
 
 # NakoNako :8096 :443
 IP-CIDR,20.205.38.244/32,no-resolve
