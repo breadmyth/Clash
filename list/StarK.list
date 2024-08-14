@@ -9,9 +9,9 @@ DOMAIN,de.ddns.me
 IP-CIDR,154.7.182.57/32,no-resolve
 
 
-//# NakoNako :8096 :443
-//IP-CIDR,20.205.38.244/32,no-resolve
-//DOMAIN-SUFFIX,nakoemby.com
+// # NakoNako :8096 :443
+// IP-CIDR,20.205.38.244/32,no-resolve
+// DOMAIN-SUFFIX,nakoemby.com
 
 # Cc :80 (电信用日本节点最好)
 DOMAIN-KEYWORD,ccemby
