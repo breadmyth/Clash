@@ -2,11 +2,11 @@
 
 
 # 韩佬 StarK :8096 :2095
-DOMAIN-KEYWORD,stark
-DOMAIN,stark.ddns.me
-DOMAIN,hinet.ddns.me
-DOMAIN,de.ddns.me
-IP-CIDR,154.7.182.57/32,no-resolve
+// DOMAIN-KEYWORD,stark
+// DOMAIN,stark.ddns.me
+// DOMAIN,hinet.ddns.me
+// DOMAIN,de.ddns.me
+// IP-CIDR,154.7.182.57/32,no-resolve
 
 
 // # NakoNako :8096 :443
