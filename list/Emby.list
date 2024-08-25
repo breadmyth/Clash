@@ -5,6 +5,9 @@ DOMAIN-KEYWORD,jav
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-KEYWORD,prosettings
 
+DOMAIN,de.ddns.me
+IP-CIDR,94.130.142.170/32,no-resolve
+
 # Copilot
 // DOMAIN-SUFFIX,bing.com
 // DOMAIN-SUFFIX,bingapis.com
