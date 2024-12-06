@@ -5,12 +5,24 @@ DOMAIN-KEYWORD,jav
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-KEYWORD,prosettings
 
-DOMAIN,de.ddns.me
-IP-CIDR,94.130.142.170/32,no-resolve
+DOMAIN-SUFFIX,telghub.com
 
-# Copilot
-// DOMAIN-SUFFIX,bing.com
-// DOMAIN-SUFFIX,bingapis.com
+DOMAIN,androidtvlauncherxfe-pa.googleapis.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapis.com
+// DOMAIN,mkapi.keeflys.com
+DOMAIN-SUFFIX,keeflys.com
+
+# IP检测
+DOMAIN,api.ip.sb
+DOMAIN,api.ipify.org
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ipify.org
+
+# Sub.Store
+DOMAIN-SUFFIX,vercel.app
+
+
 
 # BlueSeaMusics 音乐服
 DOMAIN-SUFFIX,blueseamusics.com
