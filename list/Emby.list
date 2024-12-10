@@ -1,8 +1,8 @@
 # 内容：Emby 公益服列表 代理
 
 DOMAIN-KEYWORD,pixiv
-DOMAIN-KEYWORD,jav
-DOMAIN-SUFFIX,jable.tv
+// DOMAIN-KEYWORD,jav
+// DOMAIN-SUFFIX,jable.tv
 DOMAIN-KEYWORD,prosettings
 
 DOMAIN-SUFFIX,telghub.com
@@ -14,10 +14,10 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,keeflys.com
 
 # IP检测
-DOMAIN,api.ip.sb
-DOMAIN,api.ipify.org
-DOMAIN-SUFFIX,ip.sb
-DOMAIN-SUFFIX,ipify.org
+// DOMAIN,api.ip.sb
+// DOMAIN,api.ipify.org
+// DOMAIN-SUFFIX,ip.sb
+// DOMAIN-SUFFIX,ipify.org
 
 # Sub.Store
 DOMAIN-SUFFIX,vercel.app
