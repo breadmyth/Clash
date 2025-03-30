@@ -1,5 +1,7 @@
 # 内容: Emby 公益服列表 直连
 
+DOMAIN-SUFFIX,5eplay.com
+DOMAIN-KEYWORD,5eplay
 
 # 韩佬 StarK :8096 :2095
 DOMAIN-KEYWORD,stark
