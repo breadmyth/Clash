@@ -13,6 +13,40 @@ DOMAIN-SUFFIX,googleapis.com
 // DOMAIN,mkapi.keeflys.com
 DOMAIN-SUFFIX,keeflys.com
 
+# 韩佬 StarK :8096 :2095
+DOMAIN-KEYWORD,stark
+DOMAIN,stark.ddns.me
+DOMAIN,Stark.emby857.xyz
+DOMAIN,Us.emby857.xyz
+// DOMAIN,hinet.ddns.me
+// DOMAIN,de.ddns.me
+IP-CIDR,154.7.182.57/32,no-resolve
+
+
+// # NakoNako :8096 :443
+// IP-CIDR,20.205.38.244/32,no-resolve
+// DOMAIN-SUFFIX,nakoemby.com
+
+# Cc :80 (电信用日本节点最好)
+DOMAIN-KEYWORD,ccemby
+DOMAIN-KEYWORD,coemn
+
+# 二刺螈 :443
+DOMAIN-SUFFIX,nijigem.by
+
+# 酒吧影业 :8096 :443
+DOMAIN-KEYWORD,o9o
+
+# 莫高雷 :8096
+DOMAIN-KEYWORD,mulgore
+
+# TreeDiagram :443
+DOMAIN-SUFFIX,123456.al
+
+# 探花TV ：8096
+DOMAIN-KEYWORD,tanhuatv
+DOMAIN-SUFFIX,tanhuatv.site
+
 # IP检测
 // DOMAIN,api.ip.sb
 // DOMAIN,api.ipify.org
@@ -21,8 +55,6 @@ DOMAIN-SUFFIX,keeflys.com
 
 # Sub.Store
 DOMAIN-SUFFIX,vercel.app
-
-
 
 # BlueSeaMusics 音乐服
 DOMAIN-SUFFIX,blueseamusics.com
