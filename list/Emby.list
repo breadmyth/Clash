@@ -14,13 +14,13 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,keeflys.com
 
 # 韩佬 StarK :8096 :2095
-DOMAIN-KEYWORD,stark
-DOMAIN,stark.ddns.me
+DOMAIN-KEYWORD,emby857
 DOMAIN,Stark.emby857.xyz
 DOMAIN,Us.emby857.xyz
 // DOMAIN,hinet.ddns.me
 // DOMAIN,de.ddns.me
 IP-CIDR,154.7.182.57/32,no-resolve
+IP-CIDR,14.152.88.73:2095,no-resolve
 
 
 // # NakoNako :8096 :443
