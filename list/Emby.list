@@ -20,7 +20,7 @@ DOMAIN,Us.emby857.xyz
 // DOMAIN,hinet.ddns.me
 // DOMAIN,de.ddns.me
 IP-CIDR,154.7.182.57/32,no-resolve
-IP-CIDR,14.152.88.73:2095,no-resolve
+IP-CIDR,154.40.54.28/32,no-resolve
 
 
 // # NakoNako :8096 :443
